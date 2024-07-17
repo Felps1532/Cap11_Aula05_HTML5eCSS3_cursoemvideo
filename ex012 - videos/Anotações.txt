@@ -1,0 +1,6 @@
+Pegando vídeos do YT:
+
+Compartilhar -> <>Imcorporar -> copiar código
+
+- Youtube deixará o vídeo público
+- Vimeo vídeos privados apenas para assinantes
